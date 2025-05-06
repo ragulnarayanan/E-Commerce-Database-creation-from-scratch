@@ -1,0 +1,51 @@
+Tailor_ID,Tailor_Name,Locality,State,Zip_Code,Rating,Certification_Status,No_Customers_Worked,Experience
+T002, Peggie, Altenwerthfurt, Tennessee,47923,2.9, No,473, 3
+T003, Conrad, Dulcetown, Florida,24518,3.3, Yes,135, 9
+T004, Abbie, Dellaview, Rhode Island,48452,4.7, No,185, 3
+T005, Jamel, Estelview, South Dakota,19506,2.6, Yes,157, 9
+T006, Ivah, South Tiffanyshire, Oregon,12354,2.5, Yes,169, 10
+T007, Salvatore, Friesenfurt, Kentucky,39357,3.7, Yes,498, 10
+T008, Sister, West Antonettechester, Illinois,82912,4.7, No,447, 1
+T009, Penelope, West Theodora, Indiana,95995,3.5, No,224, 4
+T010, Burnice, Lake Jettport, Indiana,62682,3, No,362, 7
+T011, Naomie, New Emmastad, Oklahoma,43700,4.1, No,484, 4
+T012, Raquel, Walterberg, Alaska,39891,2.6, No,106, 10
+T013, Macey, Trevionhaven, New York,7246,4.5, No,249, 1
+T014, Cordelia, Halvorsonview, Kansas,90621,4.6, Yes,233, 2
+T015, Harmon, Lake Rachaelport, Nevada,56836,3.5, Yes,204, 4
+T016, Anna, Port Mckayla, South Carolina,6011,3.6, Yes,264, 4
+T017, Elian, Tillmanport, Kentucky,24234,2.7, No,57, 1
+T018, Tyrell, North Francestown, New Hampshire,73828,3.3, Yes,366, 10
+T019, Kyla, Dejamouth, North Carolina,46244,3.8, Yes,76, 3
+T020, Brisa, Adrainshire, District of Columbia,92774,3.4, Yes,178, 10
+T021, Kurt, East Tia, Kansas,67855,3.6, No,418, 9
+T022, Lora, North Henriette, Mississippi,68921,2.6, No,452, 9
+T023, Jerry, Lake Emerald, Maryland,79181,3.9, Yes,159, 1
+T025, Nico, Rippinton, Georgia,3878,4.8, No,79, 3
+T026, Hilario, Chanelview, North Carolina,38023,5, No,113, 8
+T027, Serena, Harbermouth, California,25290,3.1, Yes,363, 9
+T028, Esteban, Beckershire, North Carolina,62533,3.3, Yes,281, 5
+T029, Clemmie, West Olenchester, Louisiana,91033,3.1, No,435, 1
+T030, Freddy, Oberbrunnerton, Utah,85246,4.2, No,141, 3
+T031, Grayce, Ritchiemouth, South Dakota,23744,2.7, Yes,142, 2
+T032, John, Natashaton, New Mexico,96833,3.5, No,188, 9
+T033, Bobbie, Cummingsshire, Georgia,49933,4.1, Yes,419, 9
+T034, Ila, Maziefort, Illinois,52938,2.9, No,420, 6
+T035, Alexandro, Yundtburgh, North Carolina,69515,2.9, No,110, 8
+T036, Ross, Effertzburgh, Wyoming,6486,3.6, No,165, 8
+T037, Marion, Bednarview, Colorado,54247,4.9, No,332, 4
+T038, Nathanial, New Concepcionburgh, Connecticut,12032,3.2, No,424, 5
+T039, Sim, Oberbrunnertown, Utah,61486,5, No,137, 9
+T040, Tyrel, Paigeland, Wisconsin,95320,4.4, No,400, 2
+T041, Harry, South Annabel, Hawaii,43118,3.5, No,108, 2
+T042, Genoveva, Morissetteborough, Washington,60742,3.8, No,190, 10
+T043, Jaron, North Houstonville, Oklahoma,92838,3.9, No,243, 9
+T044, Mario, Stiedemannview, NewMexico,30632,4.6, No,82, 2
+T045, Berniece, Jabariview, WestVirginia,5127,2.9, Yes,180, 7
+T046, Cristobal, Vontown, District of Columbia,8369,3, Yes,357, 7
+T047, Darian, Paulhaven, California,20049,2.8, Yes,318, 3
+T048, Robb, Port Edward, Iowa,89668,4.4, Yes,58, 5
+T049, London, East Judson, Idaho,33929,3.7, No,480, 7
+T050, Matilde, Burleyfort, Delaware,62581,3.3, No,364, 8
+T001, Elva, Port Dolly, Massachusetts,24525,4.1, Yes,409, 2
+T024, Preston, South Jovannyfurt, Ohio,28342,3, Yes,356, 6

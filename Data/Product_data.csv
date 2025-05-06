@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Price,Designer_ID,Customer_Rating
+P0002,Luxe Silk Dress,Women’s Apparel,147.14,D008,4.2
+P0003,Casual Cotton T-Shirt,Men’s Apparel,132.75,D030,3.2
+P0004,Slim Fit Denim Jeans,Men’s Apparel,177.49,D045,3.2
+P0006,Floral Summer Blouse,Women’s Apparel,85.77,D021,4.3
+P0007,V-Neck Wool Sweater,Men’s Apparel,94.91,D013,2.8
+P0008,High-Waisted Linen Pants,Women’s Apparel,63.43,D033,2.9
+P0009,Athletic Running Shorts,Activewear,65.4,D013,4.3
+P0010,Embroidered Maxi Skirt ,Women’s Apparel,171.35,D011,3.7
+P0011,Ruffled Party Dress,Women’s Apparel,84.13,D007,4.5
+P0012,Leather Biker Jacket ,Outerwear,190.59,D002,3.5
+P0013,Graphic Hoodie,Casual Wear,115.7,D005,2.8
+P0014,Cozy Knit Scarf,Accessories,128.74,D001,3.1
+P0015,Button-Up Cardigan,Women’s Apparel,62.37,D010,3.3
+P0016,Cargo Work Pants , Men’s Apparel,143.57,D006,3.3
+P0017,Luxe Wool Coat,Outerwear,170.99,D022,3.2
+P0018,Striped Beach Tunic,Swimwear,115.19,D025,3.9
+P0019,Slim Fit Chinos, Men’s Apparel,125.67,D014,3.7
+P0020,Satin Evening Gown,Women’s Apparel,179.74,D015,4.7
+P0001,Plaid Checkered Shirt, Men’s Apparel,99.2,D043,3.8
+P0005,Padded Bomber Jacket,Outerwear,106.78,D012,4.3
