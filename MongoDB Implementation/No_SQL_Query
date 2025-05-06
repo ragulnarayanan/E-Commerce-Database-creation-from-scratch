@@ -1,0 +1,25 @@
+1.Query to display all documents from Shipping collection which has Shipping Partner as ‘UPS’
+
+
+
+db.shipping.find({Shipping_Partner:"UPS"});
+
+
+
+
+2. Query to display the Name of the Designers who have rating more than 4 and less than 4.5 in Designer Collection
+
+
+
+
+db.designer.find({Rating: {$gt: 4,$lt: 4.5}}, {Designer_Name: 1});
+
+
+
+
+3. Query to find the average quantity of each product in all stores in the Inventory collection and sort in descending order
+
+
+
+
+db.inventory.aggregate([{$group: {_id: "$Product_ID",averageQuantity: { $avg:"$Quantity" }}},{$sort: { averageQuantity: -1 }}]);
